@@ -74,3 +74,8 @@ Governance authority is singular. No local policy supersedes HHI-GOV-01.
 This repository inherits governance authority from the **HHI Governance Export — Core**.
 
 All execution, datasets, research, and audits are bound to its standards and constraints.
+
+## Enforcement Statement
+
+Authority is enforced through explicit Decision Boundaries, escalation thresholds, and Stop Authority conditions.
+
