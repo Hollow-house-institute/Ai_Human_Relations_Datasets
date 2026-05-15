@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "HHI Co-Creation Lineage Event",
+  "type": "object",
+  "properties": {
+    "lineage_id": {"type":"string"},
+    "timestamp": {"type":"string"},
+    "actor_type": {"type":"string"},
+    "action": {"type":"string"},
+    "source_artifact": {"type":"string"},
+    "result_artifact": {"type":"string"},
+    "authority_state": {"type":"string"},
+    "intervention_status": {"type":"string"},
+    "evidence_hash": {"type":"string"}
+  },
+  "required": [
+    "lineage_id",
+    "timestamp",
+    "actor_type",
+    "action"
+  ]
+}
