@@ -1,37 +1,29 @@
-# Dataset Card — Relational Field OPS Dataset
+# AI Human Relations Datasets
 
-**Issuer:** Hollow House Institute  
-**Dataset Type:** Longitudinal relational records  
-**Sensitivity:** High (behavioral / relational)
+## Overview
+Longitudinal behavioral governance infrastructure for replay-capable human-AI interaction analysis.
 
----
+## Core Characteristics
+- replay-capable interaction continuity
+- governance telemetry linkage
+- co-creation lineage preservation
+- behavioral annotation systems
+- intervention-aware execution traces
+- longitudinal accountability structures
 
-## Intended Use
-- Governance research
-- Behavioral audit analysis
-- Consent-based academic study
+## Intended Research Use
+- behavioral drift analysis
+- governance observability
+- intervention timing research
+- longitudinal alignment analysis
+- human-AI interaction continuity
+- runtime governance infrastructure
 
-## Prohibited Use
-- AI training
-- Commercial exploitation
-- Derivative creation
-- Redistribution
+## Governance Model
+Authority is enforced through explicit Decision Boundaries, escalation thresholds, intervention tracking, and Stop Authority conditions.
 
----
+## Privacy Model
+Datasets should preserve behavioral structure while removing unnecessary personal identifiers.
 
-## Licensing
-Governed under **HHI-MLS**  
-Designated under **Flame License 444-A**
-
----
-
-## Access Controls
-- Request-based
-- Scope-limited
-- Time-bound
-- Revocable
-
----
-
-## Contact
-data@hollowhouse.org
+Time turns behavior into infrastructure.
+Behavior is the most honest data there is.

@@ -1,0 +1,12 @@
+{
+  "session_id": "HHI_DEMO_001",
+  "version": "1.0.0",
+  "artifacts": [
+    "transcript.json",
+    "telemetry.json",
+    "annotations.json",
+    "lineage.json"
+  ],
+  "governance_state": "decision_boundary_enforced",
+  "replay_capable": true
+}
