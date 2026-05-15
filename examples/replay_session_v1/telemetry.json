@@ -1,0 +1,11 @@
+{
+  "event_id": "evt_001",
+  "timestamp": "2026-05-15T00:00:00Z",
+  "actor": "human",
+  "session_id": "HHI_DEMO_001",
+  "decision_boundary": "ENFORCED",
+  "behavioral_drift_score": 0.12,
+  "intervention_status": "inactive",
+  "authority_state": "human_retained",
+  "runtime_source": "HHI_RUNTIME"
+}
