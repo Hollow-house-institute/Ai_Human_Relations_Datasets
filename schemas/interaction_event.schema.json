@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "HHI AI Human Interaction Event",
+  "type": "object",
+  "properties": {
+    "event_id": {"type":"string"},
+    "timestamp": {"type":"string"},
+    "actor": {"type":"string"},
+    "session_id": {"type":"string"},
+    "interaction_type": {"type":"string"},
+    "decision_boundary": {"type":"string"},
+    "behavioral_drift_score": {"type":"number"},
+    "intervention_status": {"type":"string"},
+    "authority_state": {"type":"string"},
+    "evidence_hash": {"type":"string"},
+    "runtime_source": {"type":"string"}
+  },
+  "required": [
+    "event_id",
+    "timestamp",
+    "actor",
+    "session_id"
+  ]
+}
