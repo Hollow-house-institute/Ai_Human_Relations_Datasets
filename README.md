@@ -79,3 +79,11 @@ All execution, datasets, research, and audits are bound to its standards and con
 
 Authority is enforced through explicit Decision Boundaries, escalation thresholds, and Stop Authority conditions.
 
+
+---
+
+## HHI Governed Authorship
+
+![Provenance](https://img.shields.io/badge/HHI-Governed_Authorship-black)
+
+This artifact follows the HHI governed authorship pattern: human-origin meaning, AI-executed structure, drift-free.
